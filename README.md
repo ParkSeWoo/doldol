@@ -12,6 +12,9 @@ Clean-Architecture 적용한 doldol 이 프로젝트 (Toy Project)
 JDK : java 21.0.2-graal -
 설치 : /> sdk install java 21.0.2-graalce
 
+GRADLE : 8.6 Version
+설치 : /> sdk install gralde 8.6
+
 # STEP1 -> 아직 못함 구상중
 
 ## 서비스 정보
