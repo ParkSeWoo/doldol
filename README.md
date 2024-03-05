@@ -9,6 +9,9 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|
 # doldol
 Clean-Architecture 적용한 doldol 이 프로젝트 (Toy Project)
 
+JDK : java 21.0.2-graal -
+설치 : /> sdk install java 21.0.2-graalce
+
 # STEP1 -> 아직 못함 구상중
 
 ## 서비스 정보
