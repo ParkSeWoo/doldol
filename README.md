@@ -21,9 +21,9 @@ GRADLE : 8.6 Version
 3) 22
 
 > ```docker-compose up -d```
-![img.png](img.png)
+![img.png](doc/image/img.png)
 > ```docker ps``` 
-![img_1.png](img_1.png)
+![img_1.png](doc/image/img_1.png)
 
 도커 컴포즈 종료하기
 > ```docker-compose down```
