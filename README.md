@@ -50,3 +50,9 @@ GRADLE : 8.6 Version
 ## 기획 도메인별 서브 기획
 
 
+
+## 기타 참고 링크
+https://kimjingo.tistory.com/108
+https://junuuu.tistory.com/950
+
+
