@@ -15,7 +15,18 @@ JDK : java 21.0.2-graal -
 GRADLE : 8.6 Version
 설치 : /> sdk install gralde 8.6
 
-# STEP1 -> 아직 못함 구상중
+# STEP1 -> 로컬에서 필요한 서비스 실행하기
+1) 몽고 DB local start 하기 
+2) 22
+3) 22
+
+> ```docker-compose up -d```
+![img.png](img.png)
+> ```docker ps``` 
+![img_1.png](img_1.png)
+
+도커 컴포즈 종료하기
+> ```docker-compose down```
 
 ## 서비스 정보
 
@@ -37,5 +48,11 @@ GRADLE : 8.6 Version
    
     
 ## 기획 도메인별 서브 기획
+
+
+
+## 기타 참고 링크
+https://kimjingo.tistory.com/108
+https://junuuu.tistory.com/950
 
 
